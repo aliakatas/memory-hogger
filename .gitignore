@@ -456,3 +456,7 @@ CMakeUserPresets.json
 *.ptx
 *.cubin
 *.fatbin
+
+########################################
+# Generic 
+[Bb]uild
